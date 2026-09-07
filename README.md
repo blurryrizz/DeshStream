@@ -13,7 +13,7 @@ Collects publicly available live stream links for Bangladeshi television channel
 
 Copy the public M3U playlist URL:
 
-`https://raw.githubusercontent.com/blurryrizz/DeshStream/refs/heads/main/DeshStream.m3u`
+```https://raw.githubusercontent.com/blurryrizz/DeshStream/refs/heads/main/DeshStream.m3u```
 
 ### 2. Open VLC
 
